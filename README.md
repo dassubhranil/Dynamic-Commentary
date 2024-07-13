@@ -21,10 +21,8 @@ Esports commentary has evolved into a sophisticated craft. Commentators use thei
 ## Process
 
 1. **Selected a Match for Analysis**:
-    - Choose a specific match for detailed analysis.
 
 2. **Used YouTube APIs for Accessing the Video**:
-    - Utilize YouTube APIs to access and download the match video.
 
 3. **Audio Processing**:
     - Use Pydub to convert the video to machine-friendly audio format and break it into 60-second chunks for effective transcription.
